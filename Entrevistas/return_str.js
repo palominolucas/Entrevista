@@ -1,15 +1,6 @@
 'use strict'
 
 
-/*
-document.getElementById("boton").addEventListener("click", resolucion);
-
-function resolucion(){
-    document.getElementsByClassName("respuestas").innerHTML = respuestas;
-};
-
-*/
-
 var uno = "abba";
 var dos = "aaabbbccccaa";
 var tres = "aajjjjiiiikkkkeeeeaaiiiijjjjkkkeee";
